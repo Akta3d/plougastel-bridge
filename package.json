@@ -1,0 +1,19 @@
+{
+  "private": false,
+  "name": "plougastel-bridge",
+  "version": "0.1.0",
+  "description": "",
+  "homepage": "https://intia.fr",
+  "repository": "https://github.com/intia/intia",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "main": "main.js",
+  "engines": {
+    "node": "^14.15.0"
+  },
+  "scripts": {
+    "start": "http-server"
+  }
+}
